@@ -1,11 +1,11 @@
 # Asssalamualaikum, I'm Adnan Jahangir
 
-🎓 CSE Student at International Islamic University Chittagong (IIUC)  
+🎓 CSE Student at  IIUC 
 📊 Data Analyst Enthusiast | SQL & Data-Driven Mindset
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀  I'm Working On
 - Building interactive dashboards with **Power BI**
 - Strengthening data manipulation skills in **Excel**
 - Learning **SQL** for querying relational databases
@@ -21,10 +21,6 @@
 
 ---
 
-## 📫 Let's Connect
-- 📧 Email: adnanjahangir2050@gmail.com  
-- 🛄LinkedIn: [linkedin.com/in/adnan-jahangir](https://www.linkedin.com/in/adnan-jahangir)  
-- 🗂️ Portfolio: [Coming Soon](#)
 
 ---
 
