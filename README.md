@@ -1,5 +1,4 @@
-# Asssalamualaikum
-I'm Adnan Jahangir
+# Asssalamualaikum, I'm Adnan Jahangir
 
 🎓 CSE Student at International Islamic University Chittagong (IIUC)  
 📊 Data Analyst Enthusiast | SQL & Data-Driven Mindset
