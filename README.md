@@ -1,6 +1,6 @@
 # 👋Asssalamualaikum, I'm Adnan Jahangir
 
-🎓 Computer Science & Engineering Student at International Islamic University Chittagong (IIUC)  
+🎓 CSE Student at International Islamic University Chittagong (IIUC)  
 📊 Aspiring Data Analyst | Passionate about turning raw data into meaningful insights
 
 ---
