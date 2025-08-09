@@ -8,19 +8,29 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **CSE Student** at *International Islamic University Chittagong (IIUC)*  
-- 🌱 Currently learning **Data Analytics** from *InteractiveCares*  
-- 💡 Interested in **Data Analysis, Business Intelligence, and Database Management**  
-- 💬 Ask me about: **SQL, Power BI, C, C++, Java, Python**  
-- 📫 Reach me at: **adnanjahangir2050@gmail.com**  
-- ⚡ Fun fact: *I can turn raw data into insights… and make people laugh 😅*  
+I am a **CSE student** at *International Islamic University Chittagong (IIUC)* with a strong passion for **Data Analytics, Database Systems, and Business Intelligence**.  
+I enjoy transforming **raw data into meaningful insights** using tools like **SQL, Power BI, and Python**.  
+Alongside my academic journey, I am also exploring **Java development, database design, and automation projects** — blending software development with data analytics skills.  
 
 ---
 
-## 🤝 Connect With Me  
+- 🌱 Currently learning **Data Analytics** from *InteractiveCares*  
+- 💬 Ask me about **SQL, Power BI, C, C++, Java, Python**  
+- 📫 How to reach me: **adnanjahangir2050@gmail.com**  
+- ⚡ Fun fact: *I can analyze your data and crack a joke about it 😅*  
+
+---
+
+## 🤝 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/adnan-jahangir" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/adnanadu231" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_adnanjahangir" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
