@@ -7,16 +7,17 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 **CSE Student** at International Islamic University Chittagong (IIUC)  
+## 🚀 About Me  
+- 🎓 **CSE Student** at *International Islamic University Chittagong (IIUC)*  
 - 🌱 Currently learning **Data Analytics** from *InteractiveCares*  
-- 💬 Skilled in **SQL, Power BI, C, C++, Java, Python**  
-- 📧 Reach me at: **adnanjahangir2050@gmail.com**  
-- ⚡ Fun fact: *I’m not just into data — I can entertain too 😅*  
+- 💡 Interested in **Data Analysis, Business Intelligence, and Database Management**  
+- 💬 Ask me about: **SQL, Power BI, C, C++, Java, Python**  
+- 📫 Reach me at: **adnanjahangir2050@gmail.com**  
+- ⚡ Fun fact: *I can turn raw data into insights… and make people laugh 😅*  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/adnan-jahangir" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -25,7 +26,7 @@
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠 Languages & Tools  
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
@@ -38,7 +39,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-jahangir&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan-jahangir&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-jahangir" alt="GitHub Streak" />
 </p>
