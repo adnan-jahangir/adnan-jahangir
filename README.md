@@ -13,14 +13,14 @@
 <tr>
 <td width="60%" valign="top">
 
-I am a **CSE student** at *International Islamic University Chittagong (IIUC)* with a passion for **Data Analytics, Database Systems, and Business Intelligence**.  
-I love transforming **raw data into meaningful insights** using **SQL, Power BI, and Python**.  
-Alongside academics, I explore **Java development, database design, and automation projects**, blending software development with data skills.  
+I’m a **CSE student** at *International Islamic University Chittagong (IIUC)* with a strong interest in **Data Analytics, Database Systems, and Business Intelligence**.  
+I enjoy turning **raw data into actionable insights** using **SQL, Power BI, and Python**.  
+Outside of analytics, I explore **Java development, database design, and automation projects** — mixing software engineering with data skills.
 
 - 🌱 Currently learning **Data Analytics** from *InteractiveCares*  
 - 💬 Ask me about **SQL, Power BI, C, C++, Java, Python**  
 - 📫 Reach me at **adnanjahangir2050@gmail.com**  
-- ⚡ Fun fact: *I can analyze your data... and probably roast it too 😅*  
+- ⚡ Fun fact: *Entertainer 😅*  
 
 </td>
 <td width="40%" align="center">
@@ -35,15 +35,11 @@ Alongside academics, I explore **Java development, database design, and automati
 
 ## 🤝 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/adnan-jahangir" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/adnanadu231" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_adnanjahangir" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/adnan-jahangir" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://kaggle.com/adnanjahangir" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://fb.com/adnanadu231" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/_adnanjahangir" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/adnanjahangir231" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
 </p>
 
 ---
@@ -52,11 +48,11 @@ Alongside academics, I explore **Java development, database design, and automati
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" /></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" /></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
 </p>
 
 ---
