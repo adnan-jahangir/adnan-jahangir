@@ -66,6 +66,6 @@ Outside of analytics, I explore **Java development, database design, and automat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adnan-jahangir&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-jahangir" alt="GitHub Streak" />
-</p>
+
+---
+
