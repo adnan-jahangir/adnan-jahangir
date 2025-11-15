@@ -18,7 +18,7 @@ I enjoy turning **raw data into actionable insights** using **SQL, Power BI, and
 Outside of analytics, I explore **Java development, database design, and automation projects** — mixing software engineering with data skills.
 
 - 🌱 Currently learning **Data Analytics** from *InteractiveCares*  
-- 💬 Ask me about **SQL, Power BI, C, C++, Java, Python**  
+- 💬 Ask me about **SQL, Power BI,  Python, C, C++, Java, Html,Tailwind CSS**  
 - 📫 Reach me at **adnanjahangir2050@gmail.com**  
 - ⚡ Fun fact: *Entertainer 😅*  
 
