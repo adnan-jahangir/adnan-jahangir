@@ -59,7 +59,10 @@ Outside of analytics, I explore **Java development, database design, and automat
 
 ---
 
-# 📊 GitHub Stats:
+
+<div align="center">
+
+# 📊 GitHub Statistics  
 ![](https://github-readme-stats.vercel.app/api?username=adnan-jahangir&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adnan-jahangir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-jahangir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -71,8 +74,12 @@ Outside of analytics, I explore **Java development, database design, and automat
 ![](https://github-contributor-stats.vercel.app/api?username=adnan-jahangir&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=adnan-jahangir&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 
 ---
+
 
