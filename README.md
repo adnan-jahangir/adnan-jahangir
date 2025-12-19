@@ -67,8 +67,7 @@ Outside of analytics, I explore **Java development, database design, and automat
 ![](https://nirzak-streak-stats.vercel.app/?user=adnan-jahangir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-jahangir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adnan-jahangir&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adnan-jahangir&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -80,6 +79,5 @@ Outside of analytics, I explore **Java development, database design, and automat
 </div>
 
 
----
 
 
