@@ -13,14 +13,14 @@
 <tr>
 <td width="60%" valign="top">
 
-I’m a **CSE student** at *International Islamic University Chittagong (IIUC)* with a strong interest in **Data Analytics, Database Systems, and Business Intelligence**.  
+I’m a **CSE student** at *International Islamic University Chittagong (IIUC)* with a strong interest in **Data Analytics, Database Systems, and Business Intelligence**. 
 I enjoy turning **raw data into actionable insights** using **SQL, Power BI, and Python**.  
 Outside of analytics, I explore **Java development, database design, and automation projects** — mixing software engineering with data skills.
 
-- 🌱 Currently learning **Data Analytics** from *InteractiveCares*  
-- 💬 Ask me about **:** **SQL, Power BI,  Python, C, C++, Java, Html,Tailwind CSS**  
-- 📫 Reach me at **adnanjahangir2050@gmail.com**  
-- ⚡ Fun fact: *Entertainer 😅*  
+- 🌱 Currently learning **Data Analytics** from *InteractiveCares* 
+- 💬 Ask me about: **SQL, Power BI, Python, C, C++, Java, HTML, Tailwind CSS** 
+- 📫 Reach me at: **adnanjahangir2050@gmail.com** 
+- ⚡ Fun fact: *Entertainer 😅* 
 
 </td>
 <td width="40%" align="center">
@@ -30,6 +30,13 @@ Outside of analytics, I explore **Java development, database design, and automat
 </td>
 </tr>
 </table>
+
+---
+
+## 🔗 Portfolio
+<a href="https://adnanjahangir-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=rocket&logoColor=black" />
+</a>
 
 ---
 
@@ -52,34 +59,20 @@ Outside of analytics, I explore **Java development, database design, and automat
 </a>
 </p>
 
+---
 
 ## 🛠 Languages & Tools  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,gcp" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,gcp&perline=8" />
 </p>
 
-
 ---
-
 
 <div align="center">
 
 # 📊 GitHub Statistics  
-![](https://github-readme-stats.vercel.app/api?username=adnan-jahangir&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adnan-jahangir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-jahangir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adnan-jahangir&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=adnan-jahangir&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=adnan-jahangir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adnan-jahangir&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-jahangir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
-
-
-
-
