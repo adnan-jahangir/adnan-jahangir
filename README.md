@@ -43,19 +43,16 @@ Outside of analytics, I explore **Java development, database design, and automat
 ## 🤝 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/adnan-jahangir">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 <a href="https://instagram.com/_adnanjahangir">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://fb.com/adnanadu231">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
-<a href="https://codeforces.com/profile/adnanjahangir231">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://kaggle.com/adnanjahangir">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<a href="https://wa.me/8801766411150">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
 </p>
 
@@ -68,11 +65,3 @@ Outside of analytics, I explore **Java development, database design, and automat
 
 ---
 
-<div align="center">
-
-# 📊 GitHub Statistics  
-![](https://github-readme-stats.vercel.app/api?username=adnan-jahangir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adnan-jahangir&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-jahangir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
