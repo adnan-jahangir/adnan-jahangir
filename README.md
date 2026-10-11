@@ -34,7 +34,7 @@ Outside of analytics, I explore **Java development, database design, and automat
 ---
 
 ## 🔗 Portfolio
-<a href="https://adnanjahangir-portfolio.netlify.app/">
+<a href="https://adnanjahangir.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=rocket&logoColor=black" />
 </a>
 
